@@ -1,0 +1,12 @@
+# Write a program to accept two numbers from the user and calculate multiplication
+print("--------- Start Multiplication Program -----------------------")
+
+
+numbers1 = float(input("Insert the first number:  "))
+
+numbers2 = float(input("Insert the second number:  "))
+
+print("First number x  Secend number is ====> ",
+      numbers1*numbers2)
+
+print("--------------- End of The Program----------------")
