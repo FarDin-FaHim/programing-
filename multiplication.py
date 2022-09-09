@@ -4,9 +4,9 @@ print("--------- Start Multiplication Program -----------------------")
 
 numbers1 = float(input("Insert the first number:  "))
 
-numbers2 = float(input("Insert the second number:  "))
+n2 = float(input("Insert the second number:  "))
 
 print("First number x  Secend number is ====> ",
-      numbers1*numbers2)
+      numbers1*n2)
 
 print("--------------- End of The Program----------------")
