@@ -1,6 +1,2 @@
-
-student = list[input()]
-a = 0
-for a in list:
-    a + 1
-    print(student)
+a = int(input("plese insert your IP Addrees:") )
+print(bin(a))
